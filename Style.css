@@ -2,6 +2,15 @@
 #body{
     background-color: aquamarine;
 }
+
+#div{
+
+    width: 500px;
+    height: 800px;
+    border-style: solid 2px;
+    border-color: blue;
+}
+
 .formulario{
 
     width: 600px;
