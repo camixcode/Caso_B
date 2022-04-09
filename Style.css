@@ -1,3 +1,29 @@
+
 #body{
     background-color: aquamarine;
 }
+.formulario{
+
+    width: 600px;
+    height: 600p;
+}
+
+.borde2{
+    /*height: 30px;*/
+    overflow:auto;
+    max-height: 20px;
+    word-wrap:break-word;
+    -ms-word-break: break-all;
+     word-break: break-all;
+
+     word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    margin-bottom: 2%;
+    border: 1px solid #dad8d8;
+    padding-top: 10px;
+    padding-bottom: 15px;
+  }
+
