@@ -3,12 +3,27 @@
     background-color: aquamarine;
 }
 
-#div{
+#divr{
+    margin-top: 50px;
+    margin-left: 300px;
+    text-align: center;
+    
 
-    width: 500px;
-    height: 800px;
-    border-style: solid 2px;
-    border-color: blue;
+}
+
+#card{
+    border :solid 5px #016787;
+}
+
+#cardid{
+    text-align: left;
+    margin-left: 150px;
+    line-height: 30px;
+}
+
+#btnCrearUsuario{
+
+    margin-left: 240px;
 }
 
 .formulario{
